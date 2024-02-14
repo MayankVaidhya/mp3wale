@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mp3wale/static/css/main.4a7049d0.css",
+    "main.js": "/mp3wale/static/js/main.28292387.js",
+    "static/media/test-audio.mp3": "/mp3wale/static/media/test-audio.a4b08ca17d56ab34e4b2.mp3",
+    "static/media/bg.jpg": "/mp3wale/static/media/bg.b47a0cf01619c41c32f9.jpg",
+    "static/media/Maan Meri Jaan.jpeg": "/mp3wale/static/media/Maan Meri Jaan.2f075c4c255e232cb68a.jpeg",
+    "index.html": "/mp3wale/index.html",
+    "main.4a7049d0.css.map": "/mp3wale/static/css/main.4a7049d0.css.map",
+    "main.28292387.js.map": "/mp3wale/static/js/main.28292387.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a7049d0.css",
+    "static/js/main.28292387.js"
+  ]
+}
